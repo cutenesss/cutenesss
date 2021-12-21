@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/cutenesss"><img src="https://api.daily.dev/devcards/3c86a003c62e4e6bac59abb9a8c7cd27.png?r=z9y" width="400" alt="Nguyễn Trung Hiếu's Dev Card"/></a>
+<a href="https://app.daily.dev/cutenesss"><img src="https://github.com/cutenesss/cutenesss/blob/master/devcard.svg" width="400" alt="Nguyễn Trung Hiếu's Dev Card"/></a>
